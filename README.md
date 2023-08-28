@@ -14,5 +14,4 @@
 ##### <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
 <br />
 
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun2323&show_icons=true&theme=radical)
 </div>
