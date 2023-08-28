@@ -5,7 +5,7 @@
 <br />
 <br />
 ## My values
-😎 모든것은 재미있어야 합니다<br />
+#000000  모든것은 재미있어야 합니다<br />
 👌 안전성을 겸비한 속도를 지향 합니다<br />
 🦻 쉽게 말하고 어렵게 들으려고 노력합니다<br />
 <br />
@@ -18,17 +18,18 @@
 <br />
 <br />
 ## Skills
-#### I use it often.
+* #### Programming
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/js-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   
 </div>
-#### I've used it before.
+
+* #### Framework
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
 <br />
 <br />
